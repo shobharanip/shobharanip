@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Hello, I'm Shobharani Polasa!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ **Hello, I'm Shobharani Polasa!** 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=AI+%26+GenAI+Leader+%7C+12%2B+Years;Director-level+Operations+%26+Data+Science+Leader;Building+Production+ML%2C+Deep+Learning+%26+Agentic+AI+Systems;Driving+Data-Driven+Decision+Making+Across+Enterprises)](https://git.io/typing-svg)
 
