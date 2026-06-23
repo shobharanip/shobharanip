@@ -1,72 +1,122 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/shobharanip/shobharanip.github.io/main/shobharani.jpg" width="160" style="border-radius:50%" alt="Shobharani Polasa"/>
   <h1>Shobharani Polasa</h1>
-  <p><strong>AI &amp; Data Leader · IEEE-Published Researcher · Monmouth University Alumna</strong></p>
+  <p><strong>Data Scientist · AI/ML Engineer · IEEE-Published Researcher · 12+ Years Experience</strong></p>
   <p>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11513671"><img src="https://img.shields.io/badge/IEEE-Published%20Researcher-00629B?style=flat&logo=ieee&logoColor=white" alt="IEEE"></a>
-    <a href="https://www.monmouth.edu"><img src="https://img.shields.io/badge/Monmouth%20University-M.S.%202024-004B87?style=flat" alt="Monmouth University"></a>
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Strategy-3366cc?style=flat" alt="AI Focus">
+    <a href="https://ieeexplore.ieee.org/document/11513671/"><img src="https://img.shields.io/badge/IEEE-2x%20Published%20Researcher-00629B?style=flat&logo=ieee&logoColor=white" alt="IEEE"/></a>
+    <a href="https://www.monmouth.edu"><img src="https://img.shields.io/badge/Monmouth%20University-M.S.%20GPA%203.93-004B87?style=flat" alt="Monmouth"/></a>
+    <img src="https://img.shields.io/badge/Experience-12%2B%20Years-3366cc?style=flat" alt="Experience"/>
+    <img src="https://img.shields.io/badge/UPE-Honor%20Society-gold?style=flat" alt="UPE"/>
+  </p>
+  <p>
+    <a href="https://shobharanip.github.io"><img src="https://img.shields.io/badge/Wikipedia--Style%20Profile-shobharanip.github.io-green?style=flat" alt="Website"/></a>
+    <a href="https://www.linkedin.com/in/shobharanip/"><img src="https://img.shields.io/badge/LinkedIn-shobharanip-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="https://x.com/shobharanip9"><img src="https://img.shields.io/badge/X-shobharanip9-000?style=flat&logo=x" alt="X"/></a>
   </p>
 </div>
 
 ---
 
-## About
+## 🎯 Professional Summary
 
-I'm **Shobharani Polasa**, an AI and data leader focused on building intelligent systems that create real business value. I approach artificial intelligence through the lens of **strategy and scale** — bridging cutting-edge research and enterprise-grade deployment.
+Data Science and Machine Learning professional with **12+ years of experience** delivering end-to-end predictive modeling, ML engineering, causal inference, and experimentation frameworks across financial services, enterprise, and research environments. Proven track record leading cross-functional teams and driving high-impact analytics solutions — from hypothesis design through production deployment — using Python, R, SQL, Spark, TensorFlow, Keras, XGBoost, and cloud platforms (AWS, GCP, Azure).
 
-I hold an **M.S. in Computer Science & Software Engineering** from [Monmouth University](https://www.monmouth.edu) (2024), where I conducted research that led to a peer-reviewed publication in the *IEEE Systems, Man, and Cybernetics Magazine*.
+Deep expertise in A/B testing, statistical analysis, ML pipeline engineering, big data technologies (Hadoop, Hive, Spark, Kafka), and data visualization (Tableau, Power BI). Published IEEE researcher in multimodal ML. Brings a rare combination of technical depth, leadership experience, and a relentless bias for measurable, data-informed impact.
 
 ---
 
-## 📄 Featured Publication
+## 💼 Professional Experience
 
-> **Multimodal Injury Risk and Performance Prediction in Tennis Using Weighted Ensemble Learning**  
-> *IEEE Systems, Man, and Cybernetics Magazine · 2026*  
+| Role | Company | Period | Location |
+|------|---------|--------|----------|
+| **Data Science Consultant** | Infosys (Client: Bank of America) | 2025–Present | Plano, TX, USA |
+| **Data Scientist** | Monmouth University (CSSE Dept.) | 2023–2024 | West Long Branch, NJ, USA |
+| **Senior Analytics Consultant** | Wells Fargo & Co. | 2022–2023 | USA |
+| **Team Leader** | JPMorgan Chase & Co. | 2021–2022 | USA |
+| **Senior Data Analyst** | Deloitte Support Services | 2019–2021 | India |
+| **Senior Business Analyst** | Source One Management Services | 2019 | India |
+| **Data Analyst** | TNS India Private Ltd | 2015–2018 | India |
+| **Data Analyst** | Reach Out Business Analytical Services | 2013–2015 | India |
+
+---
+
+## 📄 IEEE Publications
+
+### 1. Multimodal Injury Risk and Performance Prediction in Tennis Using Weighted Ensemble Learning
+> **IEEE Systems, Man, and Cybernetics Magazine · 2026**  
 > Weihao Qu · Ling Zheng · Jiacun Wang · Dongyang Wang · Francisco E. Alvarez · **Shobharani Polasa**
 
-This paper introduces **PART (Predictive Athlete Readiness for Tennis)** — a multimodal weighted ensemble learning framework that integrates data from:
+Introduces **PART (Predictive Athlete Readiness for Tennis)** — a multimodal weighted ensemble learning framework integrating wearable sensors, player surveys, physical tests, match statistics, and video analysis. Produces an Athlete Readiness Score and personalised injury risk assessment.
 
-- 📡 **Wearable sensors** (real-time biometrics)
-- 📋 **Player surveys** (subjective wellness)
-- 🏃 **Physical performance tests**
-- 🎾 **Match statistics**
-- 🎥 **Video analysis**
+🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11513671/)
 
-PART computes a comprehensive **Athlete Readiness Score** and personalised injury risk assessment, helping coaches and players identify risks early and optimise training.
+### 2. Multimodal Injury Risk Prediction in Tennis
+> **IEEE 5th International Conference on Human-Machine Systems (ICHMS) · 2025**  
+> Francisco E. Alvarez · **Shobharani Polasa** · Weihao Qu · Jay Wang · Ling Zheng
 
-🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11513671) &nbsp;|&nbsp; 🏫 [Monmouth University News](https://www.monmouth.edu/news/csse-faculty-and-alumni-publish-on-tennis-performance-and-injury-risk/)
+Conference paper presenting the foundational multimodal framework for athlete readiness assessment and injury risk prediction in tennis.
+
+🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11154160/)
 
 ---
 
-## 🧠 Areas of Expertise
+## 🏆 Awards & Recognition
 
-| Domain | Details |
-|---|---|
-| **Machine Learning** | Ensemble learning, multimodal fusion, deep learning, supervised & unsupervised models |
-| **Data Engineering** | Pipelines, ETL/ELT, cloud data platforms, real-time streaming |
-| **AI Strategy** | Enterprise AI roadmaps, MLOps, model governance, business value quantification |
-| **Programming** | Python, SQL, R; TensorFlow, PyTorch, scikit-learn |
-| **Research** | Peer-reviewed publication, experimental design, statistical analysis |
+| Award | Organisation | Year |
+|-------|-------------|------|
+| ⭐ **Manager Spotlight Award** | Wells Fargo | Jan 2023 |
+| ⭐ **Excellence Award** — Monthly R&R Program | JPMorgan Chase & Co. | Aug 2021 |
+| ⭐ **Innovation Award** — UK DTS Dashboard | Deloitte | Nov 2019 |
+| ⭐ **Positive Impact Award** | Kantar | May 2017 |
+
+---
+
+## 🧠 Technical Expertise
+
+| Domain | Technologies |
+|--------|-------------|
+| **ML/AI** | XGBoost · TensorFlow · Keras · PyTorch · Scikit-Learn · Deep Learning · NLP · Causal Inference |
+| **Languages** | Python · R · SQL · Scala · C++ · Java · JavaScript |
+| **Big Data** | Hadoop · Hive · Spark · PySpark · Kafka · AWS Glue/EMR |
+| **Cloud** | AWS · GCP · Azure · IBM Watson · Snowflake · Redshift · BigQuery |
+| **Data Eng.** | Apache Airflow · NiFi · Kafka · Talend · Informatica · Azure Data Factory |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Cassandra · Redis · Cosmos DB |
+| **Visualisation** | Tableau · Power BI · Plotly · Looker · Matplotlib · Seaborn |
+
+### 📜 Certifications
+Tableau Analyst · Post Graduate in Data Science & AI · AWS Certified Data Analytics · Advanced SQL · Snowflake Data Warehousing · Alteryx Designer · Computer Vision (TensorFlow/Keras) · Snowflake Data Lake
 
 ---
 
 ## 🎓 Education
 
-**Monmouth University** — West Long Branch, New Jersey  
-*M.S. Computer Science & Software Engineering, 2024*  
-Department of Computer Science and Software Engineering (CSSE)
+**Monmouth University** — West Long Branch, NJ, USA  
+*M.S. Data Science & AI · GPA: 3.93 / 4.00 · 2023–2024*  
+Department of Computer Science & Software Engineering (CSSE)
+
+**Swami Vivekananda Institute of Technology** — India  
+*B.S. Software Engineering · 2009–2013*
+
+---
+
+## 🏅 Memberships
+
+**Upsilon Pi Epsilon (UPE), Kappa Chapter** — International Honor Society for Computing and Information Disciplines  
+Recognised for academic excellence in Computer Science, Software Engineering, and Data Science.
 
 ---
 
 ## 🔗 Links
 
-- 🔬 [IEEE Publication](https://ieeexplore.ieee.org/abstract/document/11513671)
-- 🏫 [Monmouth University Feature](https://www.monmouth.edu/news/csse-faculty-and-alumni-publish-on-tennis-performance-and-injury-risk/)
-- 🌐 [Personal Site](https://shobharanip.github.io)
+- 🌐 [Wikipedia-style Profile](https://shobharanip.github.io)
+- 🔬 [IEEE Publication 2026](https://ieeexplore.ieee.org/document/11513671/)
+- 🔬 [IEEE Publication 2025](https://ieeexplore.ieee.org/document/11154160/)
+- 🏫 [Monmouth University News Feature](https://www.monmouth.edu/news/csse-faculty-and-alumni-publish-on-tennis-performance-and-injury-risk/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shobharanip/)
+- 🐦 [X / Twitter](https://x.com/shobharanip9)
 
 ---
 
 <div align="center">
-  <sub>Building AI systems that scale · IEEE SMC Magazine · 2026</sub>
+  <sub>Data Science · Machine Learning · IEEE Research · 12+ Years Experience</sub>
 </div>
