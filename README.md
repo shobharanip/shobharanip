@@ -31,8 +31,8 @@ Deep expertise in A/B testing, statistical analysis, ML pipeline engineering, bi
 |------|---------|--------|----------|
 | **Data Science Consultant** | Infosys (Client: Bank of America) | 2025–Present | Plano, TX, USA |
 | **Data Scientist** | Monmouth University (CSSE Dept.) | 2023–2024 | West Long Branch, NJ, USA |
-| **Senior Analytics Consultant** | Wells Fargo & Co. | 2022–2023 | USA |
-| **Team Leader** | JPMorgan Chase & Co. | 2021–2022 | USA |
+| **Senior Analytics Consultant** | Wells Fargo & Co. | 2022–2023 | India |
+| **Team Leader** | JPMorgan Chase & Co. | 2021–2022 | India |
 | **Senior Data Analyst** | Deloitte Support Services | 2019–2021 | India |
 | **Senior Business Analyst** | Source One Management Services | 2019 | India |
 | **Data Analyst** | TNS India Private Ltd | 2015–2018 | India |
@@ -95,7 +95,7 @@ Tableau Analyst · Post Graduate in Data Science & AI · AWS Certified Data Anal
 Department of Computer Science & Software Engineering (CSSE)
 
 **Swami Vivekananda Institute of Technology** — India  
-*B.S. Software Engineering · 2009–2013*
+*B.S. Software Engineering · *
 
 ---
 
