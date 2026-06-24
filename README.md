@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shobharanip/shobharanip.github.io/main/shobharani.jpg" width="160" style="border-radius:50%" alt="Shobharani Polasa"/>
+  <img  width="160" style="border-radius:50%" alt="Shobharani Polasa"/>
   <h1>Shobharani Polasa</h1>
   <p><strong>Data Scientist · AI/ML Engineer · IEEE-Published Researcher · 12+ Years Experience</strong></p>
   <p>
